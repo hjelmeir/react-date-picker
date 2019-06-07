@@ -2,7 +2,7 @@
 .idea
 .vscode
 .idea
-dist
+# dist
 coverage
 node_modules
 npm-debug.log

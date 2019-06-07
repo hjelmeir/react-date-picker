@@ -1,6 +1,6 @@
 {
-  "name": "react-date-picker",
-  "version": "7.5.0",
+  "name": "react-date-picker-hjelmeir",
+  "version": "7.6.0",
   "description": "A date picker for your React app.",
   "main": "dist/entry.js",
   "source": "src/entry.js",
@@ -74,7 +74,6 @@
     "merge-class-names": "^1.1.1",
     "prop-types": "^15.6.0",
     "react-calendar": "^2.18.0",
-    "react-fit": "^1.0.3",
     "react-lifecycles-compat": "^3.0.4",
     "update-input-width": "^1.0.1"
   },
